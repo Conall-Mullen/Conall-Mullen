@@ -1,4 +1,4 @@
-# Welcome to my page
+![HeaderImage](header.png)
 
 ## About
 
