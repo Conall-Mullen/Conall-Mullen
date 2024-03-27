@@ -1,13 +1,13 @@
 ![HeaderImage](header.png)
 
-## About
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=About)](https://git.io/typing-svg)
 
 A musician from Ireland, I first started programming in college, making audio processors in Max/MSP. <br/> 
 With Spiced Academy I hope to improve my programming abilities and meet lots of creative people.
 
 ![ProfilePic](./ProfilePic.jpg)
 
-### Some more info
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=More+Info)](https://git.io/typing-svg)
 
 - I am 28 years old
 - My zodiac sign is Aries
